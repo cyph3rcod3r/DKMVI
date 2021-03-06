@@ -1,0 +1,3 @@
+rootProject.name = "Jc2"
+include ':app'
+include ':common'
